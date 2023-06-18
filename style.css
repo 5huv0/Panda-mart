@@ -15,6 +15,37 @@
   background-color:#FF136F;
   border:none;
   border-radius: 5px;
-  padding:10px 15px;
+  padding:5px 12px;
   background-image: linear-gradient(to bottom, #FF589F 0% ,#FF136F 100%);
+}
+.catagories img{
+  width:100px;
+}
+.cat1,.cat2,.cat3{
+  border-radius: 10px;
+  padding:15px 25px;
+}
+.cat1{
+  background-color: orangered;
+  background-image: linear-gradient(to right, orangered 0%, rgb(241, 136, 98) 100%);
+}
+.cat2{
+  background-color: #FF136F;
+  background-image: linear-gradient(to right, #FF136F 0%, #da6f98 100%);
+}
+.cat3{
+  background-color: blue;
+  background-image: linear-gradient(to right, blue 0%, rgb(70, 148, 179) 100%);
+}
+.card1,.card2,.card3{
+  border:none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.end-part{
+  background-color:rgb(255, 231, 246);
+  padding: 40px 60px;
+  border-radius: 8px;
+}
+.end-text{
+  color:rgb(144, 141, 141);
 }
